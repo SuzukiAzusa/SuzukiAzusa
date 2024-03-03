@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <img align="right" width="200" src="/img/1.png" />
+    <img align="right" width="180" src="/img/1.png" />
     <p>&emsp;&emsp;我是美月小优，可以叫我Suzuki。</p>
     <p>&emsp;&emsp;热爱二次元、音乐、绘画、读书、健身。</p>
     <p>&emsp;&emsp;最爱的Gal是<a href='https://project-navel.com/otomeriron/'>乙女の理論とその周辺</a></p>
