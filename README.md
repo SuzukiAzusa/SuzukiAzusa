@@ -12,7 +12,7 @@
 
 |                          GitHub状态                          |                        使用最多的语言                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SuzukiAzusa&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuzukiAzusa&&hide=tsql) |
+| ![SuzukiAzusa's github stats](https://github-readme-stats.vercel.app/api?username=SuzukiAzusa&show_icons=true&theme=tokyonight&locale=cn) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuzukiAzusa&&hide=tsql) |
 
 <p>I'm just a rookie</p>
 
