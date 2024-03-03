@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨Hi there👋
 <!--
 **SuzukiAzusa/SuzukiAzusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div>
 <p>愛は東に昇って西に落ち ロマンチックは死ぬまで変わらない❤️</p>
 <p>Love rises in the east and falls in the west romantic until death🌟</p>
-<p style="color:red">爱意东升西落 浪漫至死不渝</p>
+<p>爱意东升西落 浪漫至死不渝</p>
 </div>
 
 ![Visitor Count](https://profile-counter.glitch.me/SuzukiAzusa/count.svg)
