@@ -8,12 +8,17 @@
 
 ## 🎮 About Me
 
-<img align="right" width="200" src="/img/夕阳.jpg" />
-
-<p>&emsp;&emsp;我是美月小优，可以叫我Suzuki。</p>
-<p>&emsp;&emsp;热爱二次元、音乐、绘画、读书、健身。</p>
-<p>&emsp;&emsp;希望用游戏让这个世界变得更好，励志成为一名优秀的游戏制作人。</p>
-<p><strong>&emsp;&emsp;纸上得来终觉浅，绝知此事要躬行。</strong></p>
+<table>
+  <tr>
+    <img align="right" width="170" src="/img/1.png" />
+     <p>&emsp;&emsp;我是美月小优，可以叫我Suzuki。</p>
+     <p>&emsp;&emsp;热爱二次元、音乐、绘画、读书、健身。</p>
+     <p>&emsp;&emsp;最爱的Gal是<a href='https://project-navel.com/otomeriron/'>乙女の理論とその周辺</a></p>
+     <p>&emsp;&emsp;最敬佩的电子游戏制作人是<a href='https://zh.wikipedia.org/wiki/巧舟'>タクシュー</a></p>
+     <p>&emsp;&emsp;希望通过游戏让这个世界变得更好，励志成为一名优秀的游戏制作人。</p>
+     <p><strong>&emsp;&emsp;纸上得来终觉浅，绝知此事要躬行。</strong></p>
+  </tr>
+</table>
 
 ### Overview
 
