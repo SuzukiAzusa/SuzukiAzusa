@@ -25,5 +25,10 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/番组-Bangumi-E24378)](https://bgm.tv/user/suzukiazusa)
 
 </div>
+<div>
+<p>愛は東に昇って西に落ち ロマンチックは死ぬまで変わらない❤️</p>
+<p>Love rises in the east and falls in the west romantic until death🌟</p>
+<p style="color:red">爱意东升西落 浪漫至死不渝</p>
+</div>
 
 ![Visitor Count](https://profile-counter.glitch.me/SuzukiAzusa/count.svg)
